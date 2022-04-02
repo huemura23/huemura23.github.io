@@ -20,6 +20,10 @@ h2{
     color: blue;
 }
 /*a :hover{
-    color: lightblue;
+    color: lightred;
     padding:15px;
 }*/
+h1{
+    background:darkblue;
+    margin-top:0px;
+}
