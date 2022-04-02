@@ -1,6 +1,7 @@
 body{
     text-align: center;
-    margin: auto;
+    margin: 50px;
+    font-size: medium;
 }
 img{
   height: 300px;
