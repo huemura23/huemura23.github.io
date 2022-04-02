@@ -12,7 +12,6 @@ ol{
 }
 li{
     flex:1;
-    background:yellow;
-    border: 3px black;
+    background:white;
     height: 200 px;
 }
