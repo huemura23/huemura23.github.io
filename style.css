@@ -19,3 +19,6 @@ li{
 h2{
     color: darkred;
 }
+a :hover{
+    color: lightblue;
+}
