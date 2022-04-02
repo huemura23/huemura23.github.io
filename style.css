@@ -19,6 +19,7 @@ li{
 h2{
     color: darkred;
 }
-a :hover{
+/*a :hover{
     color: lightblue;
-}
+    padding:15px;
+}*/
