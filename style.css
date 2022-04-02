@@ -6,3 +6,7 @@ img{
   height: 300px;
   width: auto;
 }
+ol{
+    display: flex;
+    text-align: center;
+}
