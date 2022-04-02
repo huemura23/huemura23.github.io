@@ -1,0 +1,5 @@
+<p>
+
+Hello, thank you for your willingness to contribute.
+var name = window.prompt("Enter donation amount ");
+var totalAmountDonate
