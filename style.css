@@ -10,3 +10,9 @@ ol{
     display: flex;
     text-align: center;
 }
+li{
+    flex:1;
+    background:yellow;
+    border: 3px black;
+    height: 200 px;
+}
