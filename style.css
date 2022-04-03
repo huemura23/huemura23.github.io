@@ -44,6 +44,15 @@ body{
     margin: 0 auto;
 }
 .content{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url('tonga_island_impact2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     max-width: 1200px;
     height: auto;
     margin: 0 auto;
