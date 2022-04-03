@@ -57,14 +57,14 @@ body{
     font-weight: 600;
     color:white;
     text-transform: uppercase;
-    margin: auto 20px;
+    margin: auto 40px;
     text-align: center;
 }
 .content h5{
     height: auto;
     margin: 20px 40px;
     color:white;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: 400;
     text-align: justify;
 }
