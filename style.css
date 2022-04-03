@@ -135,6 +135,7 @@ body{
 }
 .impact h5{
     text-transform: uppercase;
+    color: white;
     font-size:3em;
     font-weight:600;
     line-height: 1em;
