@@ -35,13 +35,16 @@
 .toggle:hover{
     transform: rotate(90deg);
 }
-.menubut{
+/*.menubut{
     background-color:transparent;
     padding:0px 39px 39px 0px;
     border:2px;
     width:0px;
     height:0px;
 }
+for possible future functionality
+*/
+
 .showcase video{
     position:absolute;
     top: 0;
