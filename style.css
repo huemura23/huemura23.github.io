@@ -48,18 +48,21 @@
 .text{
     position: relative;
     z-index: 10;
+    color: white;
 }
 .text h6{
     font-size:4em;
     font-weight:700;
     line-height: 1em;
     text-transform:uppercase;
+    color: white;
 }
 .text h7{
     font-size:3em;
     font-weight:600;
     line-height: 1em;
     text-transform:uppercase;
+    color: white;
 }
 .text a {
     display: inline-block;
