@@ -27,3 +27,14 @@ body{
     font-size: 40px;
     font-weight:700;
 }
+.content{
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+.content h2{
+    font-size: 30px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
