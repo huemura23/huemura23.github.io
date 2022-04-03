@@ -29,21 +29,22 @@ body{
 }
 .devletter h2{
     font-size: 25px;
+    padding: 20px 0;
     font-weight: 300;
     text-align: center;
-    margin: 5px 70px;
+    margin: 0px 70px;
 }
 .devletter h3{
     font-size: 20px;
     font-weight: 200;
     text-transform: uppercase;
     text-align: center;
-    margin: 0 auto;
+    margin: 10px auto;
 }
 .content{
     width: 100%;
     padding: 30px 0;
-    height: 70vh;
+    height: 40vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -54,7 +55,7 @@ body{
 }
 .content h4{
     font-size: 50px;
-    font-weight: 500;
+    font-weight: 600;
     color:white;
     text-transform: uppercase;
     text-align: center;
@@ -63,5 +64,7 @@ body{
     height: auto;
     margin: 20px 40px;
     color:white;
+    font-size: 30px;
+    font-weight: 400;
     text-align: justify;
 }
