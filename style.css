@@ -23,31 +23,7 @@ body{
     background-repeat: no-repeat;
 }
 .fullscreen-bg h1{
-    color: #fff;
+    color:white;
     font-size: 20px;
     font-weight:700;
-}
-img{
-  height: 300px;
-  width: auto;
-}
-ol{
-    display: flex;
-    text-align: center;
-}
-li{
-    flex:1;
-    background:white;
-    height: 200 px;
-}
-h2{
-    color: blue;
-}
-/*a :hover{
-    color: lightred;
-    padding:15px;
-}*/
-.first{
-    background-color:darkblue;
-    margin-top:0px;
 }
