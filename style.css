@@ -50,13 +50,13 @@
     position: relative;
     z-index: 10;
 }
-.text h2{
+.text h6{
     font-size:4em;
     font-weight:700;
     line-height: 1em;
     text-transform:uppercase;
 }
-.text h3{
+.text h7{
     font-size:3em;
     font-weight:600;
     line-height: 1em;
@@ -80,10 +80,6 @@
 body{
     margin: 0;
     padding: 0;
-}
-.fullscreen-bg h1{
-    color:floralwhite;
-    margin: 10px 0px 0px 20px;
 }
 .devletter h2{
     font-size: 25px;
