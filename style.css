@@ -1,50 +1,13 @@
-html{
-    font-size: 100%;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+*{
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family:'Poppins',sans-serif;
 }
 body{
     margin: 0;
     padding: 0;
-    font-family:'BIZ+UDPGothic', sans-serif;
-}
-*{
-    margin: 0;
-    padding: 0;
-}
-.slider-frame{
-    overflow:hidden;
-    height: 50vh;
-    width: 100%;
-}
-@-webkit-keyframes slide_animation{
-    0% {left:0px;}
-    10% {left:0px;}
-    20% {left:1200px;}
-    30% {left:1200px;}
-    40% {left:2400x;}
-    50% {left:2400px;}
-    60% {left:1200px;}
-    70% {left:1200px;}
-    80% {left:0px;}
-    90% {left:0px;}
-    100% {left:0px;}
-}
-.slide-images{
-    width: 3600px;
-    height: 50vh;
-    margin:0 0 0 -2400px;
-    position: relative;
-    -webkit-animation-name:slide_animation;
-    -webkit-animation-duration:20s;
-    -webkit-animation-iteration-count:infinite;
-    -webkit-animation-direction:alternate;
-    -webkit-animation-play-state:running;
-}
-.img-container{
-    height: 800px;
-    width: 1200px;
-    position: relative;
-    float: left;
 }
 .fullscreen-bg h1{
     color:floralwhite;
