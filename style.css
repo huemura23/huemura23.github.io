@@ -17,7 +17,7 @@
 }
 .showcase header{
     position:absolute;
-    top:5;
+    top:0;
     left:0;
     width:100%;
     padding: 40px 100px;
@@ -102,7 +102,7 @@ body{
     padding: 0;
 }
 .devletter h2{
-    padding-top: 30px;
+    padding-top: 60px;
     font-size: 25px;
     padding: 20px 0;
     font-weight: 300;
