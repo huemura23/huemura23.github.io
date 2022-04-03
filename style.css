@@ -23,6 +23,7 @@
     padding: 40px 100px;
     z-index: 1000;
     display:flex;
+    color: white;
 }
 .toggle{
     cursor: pointer;
