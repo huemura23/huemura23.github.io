@@ -155,6 +155,8 @@ body{
     line-height: 1em;
 }
 .yvid{
+    max-width: 1200px; 
+    height: 50vh;
     margin: auto 70px auto 70px;
     width: 100%;
     height: 40vh;
