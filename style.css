@@ -30,7 +30,6 @@ body{
 .devletter h2{
     font-size: 25px;
     font-weight: 300;
-    padding: 30px 0;
     text-align: center;
     margin: 5px 70px;
 }
@@ -44,6 +43,7 @@ body{
 }
 .content{
     width: 100%;
+    padding: 30px 0;
     height: 70vh;
     display: flex;
     align-items: center;
@@ -52,17 +52,17 @@ body{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: auto;
-    margin: 0 auto;
-    padding: 30px 0;
-    color:white;
-    text-align: justify;
 }
 .content h4{
     font-size: 50px;
     font-weight: 500;
     color:white;
     text-transform: uppercase;
+    text-align: center;
+}
+.content h5{
+    height: auto;
+    margin: 0 auto;
+    color:white;
     text-align: justify;
 }
-
