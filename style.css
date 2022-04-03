@@ -141,4 +141,6 @@ h8{
     text-transform: uppercase;
     text-align: center;
     font-size:3em;
+    font-weight:600;
+    line-height: 1em;
 }
