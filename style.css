@@ -93,3 +93,6 @@ body{
     font-weight: 400;
     text-align: justify;
 }
+.content h6{
+    margin: auto auto;
+}
