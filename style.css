@@ -32,14 +32,20 @@ body{
     font-weight: 500;
     padding: 70px 0;
 }
+.devletter h3{
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding: 70px 0;
+}
 .content{
     max-width: 1200px;
     height: auto;
     margin: 0 auto;
     padding: 70px 0;
 }
-.content h3{
-    font-size: 30px;
+.content h4{
+    font-size: 40px;
     font-weight: 500;
     text-transform: uppercase;
 }
