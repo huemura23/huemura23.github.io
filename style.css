@@ -32,6 +32,8 @@
 .toggle{
     cursor: pointer;
     transition:transform .3s ease-in-out;
+    border-radius:50%;
+    border-color:#f5f5f56e;
 }
 .toggle:hover{
     transform: rotate(90deg);
