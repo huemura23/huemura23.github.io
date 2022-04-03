@@ -64,6 +64,7 @@ body{
     font-weight: 200;
     text-transform: uppercase;
     text-align: center;
+    margin: 0px 0px 20px 0px;
 }
 .content{
     width: 100%;
@@ -94,5 +95,5 @@ body{
     text-align: justify;
 }
 .content h6{
-    margin: auto auto;
+    margin: 30px 60px;
 }
