@@ -11,19 +11,42 @@ body{
     margin: 0;
     padding: 0;
 }
-.fullscreen-bg{
-    width: 100%;
+.slider-frame{
+    overflow:hidden;
     height: 50vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-image: url('tonga_island_impact3.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    width: 100%;
+}
+@-webkit-keyframes slide_animation{
+    0% {left:0px;}
+    10% {left:0px;}
+    20% {left:1200px;}
+    30% {left:1200px;}
+    40% {left:2400x;}
+    50% {left:2400px;}
+    60% {left:1200px;}
+    70% {left:1200px;}
+    80% {left:0px;}
+    90% {left:0px;}
+    100% {left:0px;}
+}
+.slide-images{
+    width: 3600px;
+    height: 50vh;
+    position: relative;
+    -webkit-animation-name:slide_animation;
+    -webkit-animation-duration:20s;
+    -webkit-animation-iteration-count:infinite;
+    -webkit-animation-direction:left;
+    -webkit-animation-play-state:running;
+}
+.img-container{
+    height: 800px;
+    width: 1200px;
+    position: relative;
+    float: left;
 }
 .fullscreen-bg h1{
-    color:white;
+    color:floralwhite;
     font-size: 70px;
     font-weight:900;
 }
@@ -55,7 +78,7 @@ body{
 .content h4{
     font-size: 50px;
     font-weight: 600;
-    color:white;
+    color:floralwhite;
     text-transform: uppercase;
     margin: auto 40px;
     text-align: center;
@@ -63,7 +86,7 @@ body{
 .content h5{
     height: auto;
     margin: 20px 40px;
-    color:white;
+    color:floralwhite;
     font-size: 25px;
     font-weight: 400;
     text-align: justify;
