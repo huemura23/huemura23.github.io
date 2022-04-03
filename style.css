@@ -39,7 +39,6 @@ body{
     font-weight: 200;
     text-transform: uppercase;
     text-align: center;
-    margin: 10px auto;
 }
 .content{
     width: 100%;
@@ -58,6 +57,7 @@ body{
     font-weight: 600;
     color:white;
     text-transform: uppercase;
+    margin: auto 20px;
     text-align: center;
 }
 .content h5{
