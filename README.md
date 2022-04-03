@@ -1,6 +1,6 @@
 # huemura23.github.io
 
-This website was made using images and information from other sources.
+This website was made using images, videos, and information from other sources.
 This was made by beginners. Not professional.
 
 Font:
@@ -14,3 +14,5 @@ links/citations:
 
 Image Citation links:
 -https://www.uidownload.com/en/vector-dsrnc (blubg.jpg)
+
+This website was made to raise awareness for some of the least known catastrophes.
