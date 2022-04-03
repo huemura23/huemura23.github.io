@@ -27,11 +27,18 @@ body{
     font-size: 40px;
     font-weight:700;
 }
+.devletter{
+    max-width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    padding: 70px 0;
+    font-family:'BIZ+UDPGothic', sans-serif;
+}
 .content{
     max-width: 1200px;
     height: auto;
     margin: 0 auto;
-    padding: 100px 0;
+    padding: 70px 0;
 }
 .content h2{
     font-size: 30px;
