@@ -117,7 +117,7 @@ body{
 }
 .content hr{
     height: 5px;
-    background-color: blue;
+    background-color: lightblue;
 }
 .content p{
     padding-top:20px;
@@ -139,7 +139,11 @@ body{
 .inquiry p{
     text-transform: uppercase;
     text-align: center;
-    font-size:3em;
-    font-weight:600;
+    font-size:4em;
+    font-weight:700;
     line-height: 1em;
+}
+.inquiry hr{
+    height: 5px;
+    background-color: lightblue;
 }
