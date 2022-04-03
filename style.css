@@ -13,7 +13,7 @@ body{
 }
 .fullscreen-bg{
     width: 100%;
-    height: 100vh;
+    height: 50vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -24,6 +24,6 @@ body{
 }
 .fullscreen-bg h1{
     color:white;
-    font-size: 20px;
+    font-size: 40px;
     font-weight:700;
 }
