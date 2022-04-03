@@ -31,11 +31,14 @@ body{
     font-size: 30px;
     font-weight: 500;
     padding: 70px 0;
+    text-align: center;
 }
 .devletter h3{
     font-size: 20px;
-    font-weight: 500;
+    font-weight: 200;
     text-transform: uppercase;
+    color:grey;
+    text-align: center;
     padding: 70px 0;
 }
 .content{
