@@ -32,11 +32,16 @@
 .toggle{
     cursor: pointer;
     transition:transform .3s ease-in-out;
-    border-radius:50%;
-    border-color:#f5f5f56e;
 }
 .toggle:hover{
     transform: rotate(90deg);
+}
+button{
+    background-color:transparent;
+    padding:0px 39px 39px 0px;
+    border:2px;
+    width:0px;
+    height:0px;
 }
 .showcase video{
     position:absolute;
