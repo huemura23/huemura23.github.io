@@ -31,6 +31,10 @@
 }
 .toggle{
     cursor: pointer;
+    transition:transform .3s ease-in-out;
+}
+.toggle:hover{
+    transform: rotate(90deg);
 }
 .showcase video{
     position:absolute;
