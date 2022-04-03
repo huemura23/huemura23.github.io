@@ -3,6 +3,9 @@
 This website was made using images and information from other sources.
 This was made by beginners. Not professional.
 
+Font:
+- google fonts poppins
+
 links/citations:
 - wikipedia (info)
 - youtube (info and tutorials) - the linked video was not made by us, it was randomly found on youtube.
