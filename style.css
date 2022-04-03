@@ -32,6 +32,7 @@ body{
 .slide-images{
     width: 3600px;
     height: 50vh;
+    margin:0 0 0 -2400px;
     position: relative;
     -webkit-animation-name:slide_animation;
     -webkit-animation-duration:20s;
@@ -49,6 +50,7 @@ body{
     color:floralwhite;
     font-size: 70px;
     font-weight:900;
+    margin: 10px 0px 0px 20px;
 }
 .devletter h2{
     font-size: 25px;
