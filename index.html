@@ -8,10 +8,10 @@
     <title>Tonga Web</title>
   </head>
   <body>
-    <section class= "showcase active">
+    <section class= "showcase">
       <header>
         <h1 class="logo">Tonga Web</h1>
-        <div class="toggle active"></div>
+        <div class="toggle"></div>
       </header>
       <video src="oceanbg.mp4" muted loop autoplay></video>
       <div class="text">
@@ -23,10 +23,20 @@
       <div class="menu">
         <ul>
           <li><a href= "#">Home</a></li>
-          <li><a href= "#contenthere">What Happened</a></li>
+          <li><a href= "#">What Happened</a></li>
           <li><a href= "#">How to Help</a></li>
           <li><a href= "#">Our Purpose</a></li>
         </ul>
+      </div>
+      <script>
+        const menuToggle = document.querySelector('.toggle')
+        const showcase = document.querySelector('.showcase')
+        
+        menuToggle.addEventListener('click',funtion(){
+            menuToggle.classList.toggle('active')
+            showcase.classList.toggle('active')                
+                                    })
+      </script>
   <section class="content">
     <h4>The Tonga Tsunami Disaster</h4>
     <hr>
